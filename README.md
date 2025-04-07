@@ -8,4 +8,5 @@ Workflow:
 * run app.py to view the results in a more exciting way ;)
 
 
-Note: The code was formatted and commented with Google Gemini 2.5 pro after finishing the project.
+Note: *  The code was formatted and commented with Google Gemini 2.5 pro after finishing the project.
+      *  Requirements may not be optimised/up to date
